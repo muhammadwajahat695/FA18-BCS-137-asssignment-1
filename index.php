@@ -1,2 +1,1 @@
-<?php include_once("<div class="">
-<assignment1></assignment1>.html")?>
+<?php include_once("./assignment1.html")?>
