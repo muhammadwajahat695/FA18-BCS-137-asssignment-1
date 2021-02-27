@@ -1,0 +1,90 @@
+#main{
+    margin: 200px;
+    border: 3px groove #0E3853;
+    align-content: center;
+    padding: 6px; 
+    overflow: hidden;  
+    display: flex;
+}
+#pic{
+    padding-left: 160px;
+    padding-top: 50px;
+        
+}
+#two{
+    float: left;
+    width: 2600px;
+    background:lightgray;
+    padding: 10px;
+    margin: 10px;
+}
+.info{
+    font-size: 50px;
+    text-align: bottom;
+    margin: auto;
+    margin-top: 30px;
+}
+h1.info{
+    color: linen;
+    font-size: 100px;
+}
+#three{
+    padding: 100px;
+    background-color:rgb(42, 42, 143);
+}
+#sub{
+    width: 2600px;
+    background:lightgray;
+    padding: 10px;
+    margin: 10px;
+}
+#contact{
+    font-size: 80px;
+    padding-left: 500px;
+    padding-top: 50px;
+    
+}
+.align{
+    background-color: blue;
+    float:left;width: 30%;
+    clear: both;
+}
+.secondalign{
+    background-color: burlywood;
+
+}
+#one{
+    border: 5px solid #2a2726;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(118, 128, 108);
+}
+#name{
+    font-size: 100px;
+    font-style: italic;
+    font-display: inherit;
+    padding-left: 100px;
+}
+#line{
+    height:10px;color:rgb(102, 22, 22); background-color:burlywood;
+}
+#list{
+    padding-left: 300px;
+    color: chocolate;
+    font-size: 60px;
+}
+#pic2{
+    width:100px;
+    padding-left: 100px;
+}
+#num{
+    font-size: 50px;
+    margin-left: 250px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+#edu{
+    padding-left: 5000px;
+    color: chocolate;
+    font-size: 100px;
+}
